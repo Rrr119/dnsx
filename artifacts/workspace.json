@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid32246",
+  "B": "/home/dev/feedback/uid32246",
+  "sha": "63e6d368b4b43c83967c87259ad96dcf3a446987",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "projectdiscovery",
+    "repo": "dnsx",
+    "sha": "63e6d368b4b43c83967c87259ad96dcf3a446987"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "dnsx",
+    "cloneUrl": "https://github.com/Rrr119/dnsx.git"
+  },
+  "at": "2026-11-22T01:55:11.585Z"
+}
